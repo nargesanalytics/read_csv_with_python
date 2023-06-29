@@ -25,8 +25,8 @@ through the SQL database.
 
 
 * [code](#code)
+  
 #import libaray
-
 * import pandas as pd
 * import sqlite3
 * import numpy as n
@@ -35,7 +35,7 @@ through the SQL database.
 # install 
   pip install pymysq
   
-* # Establish MySQL connection
+ # Establish MySQL connection
     connection = pymysql.connect(host='host', user='user', password='password', database='database_db')
 
  # Create cursor object
