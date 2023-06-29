@@ -1,4 +1,4 @@
-# read_csv_with_python
+# ReadCsvWithPython
 Using code python to read csv file instead of using pandas library,
 This process reduces storage in memory and 
 increases the speed of the code reading process
@@ -20,12 +20,7 @@ through the SQL database.
 
 # [Installation / Usage](#Installation--Usage)
 
-#import libaray
-* import pandas as pd
-* import sqlite3
-* import numpy as n
-* import matplotlib as plt
-
+* conda list -e > requirements.txt
 # install 
   pip install pymysq
 
