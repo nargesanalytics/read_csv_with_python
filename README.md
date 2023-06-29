@@ -11,21 +11,15 @@ through the SQL database.
 * [code](#code)
 
 
-* [Introduction](#Introduction)
+  # [Introduction](#Introduction)
   NumPy’s high level syntax makes it accessible and productive for
   programmers from any background or experience level.For ease of work and
   easy access to data by connecting to SQL, you can use this method to avoid the large amount of work and
   the delay in reading information in the Numpay library.
 
 
-* [Installation / Usage](#Installation--Usage)
+# [Installation / Usage](#Installation--Usage)
 
-
-
-
-
-* [code](#code)
-  
 #import libaray
 * import pandas as pd
 * import sqlite3
@@ -34,6 +28,11 @@ through the SQL database.
 
 # install 
   pip install pymysq
+
+
+
+# [code](#code)
+  
   
  # Establish MySQL connection
     connection = pymysql.connect(host='host', user='user', password='password', database='database_db')
