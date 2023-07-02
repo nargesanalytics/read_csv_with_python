@@ -8,7 +8,7 @@ through the SQL database.
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Installation / Usage](#Installation--Usage)
-* [code](#code)
+
 
 
   # [Introduction](#Introduction)
