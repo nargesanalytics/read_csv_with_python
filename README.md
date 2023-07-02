@@ -22,15 +22,9 @@ through the SQL database.
 
 * conda list -e > requirements.txt
 # install 
-  pip install pymysq
+* conda activate <env>
+  conda install pip
+  pip freeze > requirements.txt
+* pip install pymysq
 
 
-
-# [code](#code)
-  
-  
- # Establish MySQL connection
-    connection = pymysql.connect(host='host', user='user', password='password', database='database_db')
-
- # Create cursor object
-    cursor = connection.cursor()
