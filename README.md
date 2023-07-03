@@ -20,10 +20,7 @@ through the SQL database.
 
 # [Installation / Usage](#Installation--Usage)
 
-* conda list -e > requirements.txt
-* conda activate <env>
-* conda install pip
-* pip freeze > requirements.txt
-* pip install pymysq
+* pip install -r requirements.txt
+
 
 
